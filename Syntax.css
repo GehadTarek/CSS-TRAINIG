@@ -1,5 +1,9 @@
-p
-{
-    color:blue;
-    font-size:40px
+p {
+  height: 500px;
+  width: 500px;
+  background-attachment: scroll;
+  border: 0.5px solid red;
+  background-position: 50% 0%;
+  background: none no-repeat scroll 50% 0% #0000ff;
+  background-image: url("download.jpeg");
 }
