@@ -1,7 +1,7 @@
-a:hover
+.ppp
 {
+    background-color: aqua;
     color:red;
-    text-decoration: none;
-    list-style-type
-   
+    position: absolute;;
+    left: 30px;
 }
